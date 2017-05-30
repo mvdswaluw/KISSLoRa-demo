@@ -8,7 +8,7 @@ This repository includes example software to be used with the KISS LoRa gadget f
 
 ### Download this repository
 
-Download the contents of this repository to your computer by clicking [here](archive/master.zip) or by going to **Clone or download->Download ZIP**. On your computer unzip the downloaded file by following the correct procedure for your operating system.
+Download the contents of this repository to your computer by clicking [here](https://github.com/TheThingsIndustries/KISSLoRa-demo/archive/master.zip) or by going to **Clone or download->Download ZIP**. On your computer unzip the downloaded file by following the correct procedure for your operating system.
 
 ### Arduino IDE
 
@@ -16,7 +16,7 @@ Download the latest version of the Arduino IDE from [https://www.arduino.cc/en/M
 
 > If your Arduino IDE's interface language is not English, you can change it using the following steps:<br />
 > Dutch: **Bestand->Voorkeuren->Taal voor editor->Engels(Engels)**, hierna Arduino IDE opnieuw opstarten.
-
+i
 Go to **File->Preferences** on the Settings tab, next to **Show verbose output during:**, make sure the checkbox next to **upload** is selected.
 
 ### SparkFun AVR boards
